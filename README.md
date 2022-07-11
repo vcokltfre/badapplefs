@@ -2,4 +2,4 @@
 
 Bad Apple rendered with filesystem thumbnails.
 
-YouTube video: Soon
+YouTube video: [Here!](https://youtu.be/53IJsFTYO2s)
